@@ -1,4 +1,3 @@
-
 object Hello {
   def main(args:Array[String]) {
     val name:String = args(0)
