@@ -1,1 +1,6 @@
 /.metadata/
+/project/
+/target/
+*/project/
+*/target/
+.DS_Store

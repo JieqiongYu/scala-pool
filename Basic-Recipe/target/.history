@@ -47,3 +47,8 @@ publish
 show crednetials
 show credentials
 reload
+show sources
+reload
+ls
+exit()
+exit
