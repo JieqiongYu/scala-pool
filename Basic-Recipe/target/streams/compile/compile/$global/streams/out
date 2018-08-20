@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jieyu/Documents/code/scala-pool/Basic-Recipe/src/main/scala/animals/Run.scala:12:33: could not find implicit value for parameter formats: net.liftweb.json.Formats[0m
+[0m[[0m[31merror[0m] [0m[0m    println(Extraction.decompose(myCat))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jieyu/Documents/code/scala-pool/Basic-Recipe/src/main/scala/animals/Run.scala:13:33: could not find implicit value for parameter formats: net.liftweb.json.Formats[0m
+[0m[[0m[31merror[0m] [0m[0m    println(Extraction.decompose(myDog))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

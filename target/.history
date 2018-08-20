@@ -1,0 +1,8 @@
+runMain animals.Run
+exit
+runMain animal.Run
+runMain animals.Run
+exit
+runMain animals.Run
+subl build.sbt
+exit
